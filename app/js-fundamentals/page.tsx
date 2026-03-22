@@ -45,27 +45,27 @@ export default function JSFundamentals() {
       {/* Page content — we'll fill these in as we go */}
       <main className="max-w-4xl mx-auto px-6 py-16 space-y-32">
 
-        <section id="variables">
+        <section id="variables" className="scroll-mt-20">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Variables & Types</h2>
           <p className="text-gray-500">Coming soon...</p>
         </section>
 
-        <section id="functions">
+        <section id="functions" className="scroll-mt-20">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Functions</h2>
           <p className="text-gray-500">Coming soon...</p>
         </section>
 
-        <section id="arrays">
+        <section id="arrays" className="scroll-mt-20">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Array Methods</h2>
           <p className="text-gray-500">Coming soon...</p>
         </section>
 
-        <section id="async">
+        <section id="async" className="scroll-mt-20">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Async & Await</h2>
           <p className="text-gray-500">Coming soon...</p>
         </section>
 
-        <section id="dom">
+        <section id="dom" className="scroll-mt-20">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">The DOM</h2>
           <p className="text-gray-500">Coming soon...</p>
         </section>
